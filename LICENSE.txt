@@ -1,0 +1,10 @@
+Original learning-site code and lesson content:
+Copyright (c) 2026
+Permission is granted to use, copy, modify and distribute this material for personal,
+educational and commercial use. Provided as-is without warranty.
+
+External resources and dependencies retain their own licenses.
+Pyodide is loaded separately from its official CDN distribution; its notices and
+licenses are not replaced by this file.
+Square Enix, GitHub, Python and NumPy names refer to their respective owners.
+This material is not affiliated with or endorsed by Square Enix.
